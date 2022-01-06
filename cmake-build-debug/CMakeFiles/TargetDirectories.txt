@@ -1,0 +1,3 @@
+/home/cwegrzyn/Projects/OSRT/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/cwegrzyn/Projects/OSRT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/cwegrzyn/Projects/OSRT/cmake-build-debug/CMakeFiles/OSRT.dir
